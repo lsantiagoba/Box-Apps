@@ -1,0 +1,60 @@
+/* Folder icon in the dock: the 2x2 preview on a rounded tile, like the
+   folders in the App Grid. The border radius is set in code from the size. */
+.box-apps-folder-icon {
+    background-color: rgba(255, 255, 255, 0.12);
+    padding: 0;
+}
+
+.box-apps-folder:checked .box-apps-folder-icon {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+/* Popup with the folder's apps */
+.box-apps-popup .popup-menu-content {
+    padding: 12px;
+}
+
+.box-apps-popup-content,
+.box-apps-popup-content:hover,
+.box-apps-popup-content:focus {
+    padding: 0;
+    background-color: transparent;
+}
+
+.box-apps-popup-title {
+    font-weight: bold;
+    font-size: 1.1em;
+    padding: 4px 0 10px 0;
+}
+
+.box-apps-popup-empty {
+    padding: 12px 24px;
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.box-apps-popup-scroll {
+    max-height: 420px;
+}
+
+.box-apps-app {
+    width: 96px;
+    padding: 10px 4px 8px 4px;
+    border-radius: 12px;
+    transition-duration: 100ms;
+}
+
+.box-apps-app:hover,
+.box-apps-app:focus {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.box-apps-app:active {
+    background-color: rgba(255, 255, 255, 0.16);
+}
+
+.box-apps-app-label {
+    font-size: 0.9em;
+    padding-top: 6px;
+    text-align: center;
+    max-width: 88px;
+}

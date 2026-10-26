@@ -1,0 +1,196 @@
+# Spanish translations for box-apps package.
+# Copyright (C) 2026 THE box-apps'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the box-apps package.
+# Automatically generated, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: box-apps\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-26 17:47-0400\n"
+"PO-Revision-Date: 2026-10-26 17:33-0400\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: Spanish\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/v45-46-47-48-49-50/DockFolder.js:218
+msgid "Open"
+msgstr "Abrir"
+
+#: src/v45-46-47-48-49-50/DockFolder.js:220
+msgid "Move to the end of the dock"
+msgstr "Mover al final del dock"
+
+#: src/v45-46-47-48-49-50/DockFolder.js:221
+msgid "Remove from dock"
+msgstr "Quitar del dock"
+
+#: src/v45-46-47-48-49-50/DockFolder.js:223
+msgid "Box Apps Settings"
+msgstr "Ajustes de Box Apps"
+
+#: src/v45-46-47-48-49-50/DockFolder.js:358
+msgid "No apps in this folder"
+msgstr "No hay apps en esta carpeta"
+
+#: src/v45-46-47-48-49-50/prefs.js:34
+#, javascript-format
+msgid "%d app"
+msgid_plural "%d apps"
+msgstr[0] "%d app"
+msgstr[1] "%d apps"
+
+#: src/v45-46-47-48-49-50/prefs.js:64 src/v45-46-47-48-49-50/prefs.js:134
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: src/v45-46-47-48-49-50/prefs.js:66
+msgid "Done"
+msgstr "Listo"
+
+#: src/v45-46-47-48-49-50/prefs.js:75
+msgid "Search apps"
+msgstr "Buscar apps"
+
+#: src/v45-46-47-48-49-50/prefs.js:136
+msgid "Save"
+msgstr "Guardar"
+
+#: src/v45-46-47-48-49-50/prefs.js:142
+msgid "Folder name"
+msgstr "Nombre de la carpeta"
+
+#: src/v45-46-47-48-49-50/prefs.js:174
+msgid "Box Apps"
+msgstr "Box Apps"
+
+#: src/v45-46-47-48-49-50/prefs.js:190
+msgid "Show in the dock"
+msgstr "Mostrar en el dock"
+
+#: src/v45-46-47-48-49-50/prefs.js:198
+msgid "Your folders"
+msgstr "Tus carpetas"
+
+#: src/v45-46-47-48-49-50/prefs.js:199
+msgid "Folders you make here can hold any apps you choose."
+msgstr "Las carpetas que crees aquí pueden tener las apps que elijas."
+
+#: src/v45-46-47-48-49-50/prefs.js:202 src/v45-46-47-48-49-50/prefs.js:228
+msgid "New folder"
+msgstr "Nueva carpeta"
+
+#: src/v45-46-47-48-49-50/prefs.js:229 src/v45-46-47-48-49-50/prefs.js:274
+#: src/v45-46-47-48-49-50/prefs.js:276
+msgid "Choose apps"
+msgstr "Elegir apps"
+
+#: src/v45-46-47-48-49-50/prefs.js:250
+msgid "No folders yet"
+msgstr "Aún no hay carpetas"
+
+#: src/v45-46-47-48-49-50/prefs.js:251
+msgid "Use “New folder” to make one with the apps you want."
+msgstr "Usa «Nueva carpeta» para crear una con las apps que quieras."
+
+#: src/v45-46-47-48-49-50/prefs.js:273
+msgid "Edit folder"
+msgstr "Editar carpeta"
+
+#: src/v45-46-47-48-49-50/prefs.js:286
+msgid "Rename"
+msgstr "Renombrar"
+
+#: src/v45-46-47-48-49-50/prefs.js:288
+msgid "Rename folder"
+msgstr "Renombrar carpeta"
+
+#: src/v45-46-47-48-49-50/prefs.js:294
+msgid "Delete folder"
+msgstr "Eliminar carpeta"
+
+#: src/v45-46-47-48-49-50/prefs.js:306
+msgid "Not installed"
+msgstr "No instalada"
+
+#: src/v45-46-47-48-49-50/prefs.js:311
+msgid "Move up"
+msgstr "Subir"
+
+#: src/v45-46-47-48-49-50/prefs.js:316
+msgid "Move down"
+msgstr "Bajar"
+
+#: src/v45-46-47-48-49-50/prefs.js:321
+msgid "Remove from folder"
+msgstr "Quitar de la carpeta"
+
+#: src/v45-46-47-48-49-50/prefs.js:338
+msgid "App Grid folders"
+msgstr "Carpetas de la cuadrícula de apps"
+
+#: src/v45-46-47-48-49-50/prefs.js:339
+msgid ""
+"Folders from the App Grid. Make one there by dragging an app onto another."
+msgstr ""
+"Carpetas de la cuadrícula de apps. Crea una allí arrastrando una app sobre "
+"otra."
+
+#: src/v45-46-47-48-49-50/prefs.js:382
+msgid "No App Grid folders"
+msgstr "No hay carpetas en la cuadrícula de apps"
+
+#: src/v45-46-47-48-49-50/prefs.js:383
+msgid "Open the App Grid and drag one app onto another to create a folder."
+msgstr ""
+"Abre la cuadrícula de apps y arrastra una app sobre otra para crear una "
+"carpeta."
+
+#: src/v45-46-47-48-49-50/prefs.js:392
+msgid "Appearance"
+msgstr "Apariencia"
+
+#: src/v45-46-47-48-49-50/prefs.js:393
+msgid "Drag a folder along the dock to place it between any apps."
+msgstr ""
+"Arrastra una carpeta por el dock para ponerla entre las apps que quieras."
+
+#: src/v45-46-47-48-49-50/prefs.js:398
+msgid "Separator"
+msgstr "Separador"
+
+#: src/v45-46-47-48-49-50/prefs.js:399
+msgid "Draw a line before folders at the end of the dock"
+msgstr "Dibujar una línea antes de las carpetas al final del dock"
+
+#: src/v45-46-47-48-49-50/prefs.js:405
+msgid "Popup columns"
+msgstr "Columnas de la ventana emergente"
+
+#: src/v45-46-47-48-49-50/prefs.js:406
+msgid "Apps per row when a folder is opened"
+msgstr "Apps por fila al abrir una carpeta"
+
+#: src/v45-46-47-48-49-50/prefs.js:411
+msgid "Hide pinned apps in App Grid folders"
+msgstr "Ocultar apps ancladas en las carpetas de la cuadrícula"
+
+#: src/v45-46-47-48-49-50/prefs.js:412
+msgid "Like the App Grid, leave out apps already pinned to the dock"
+msgstr "Como en la cuadrícula de apps, omitir las apps ya ancladas al dock"
+
+#: src/v45-46-47-48-49-50/prefs.js:418
+msgid "Reset positions"
+msgstr "Restablecer posiciones"
+
+#: src/v45-46-47-48-49-50/prefs.js:419
+msgid "Move every folder back to the end of the dock"
+msgstr "Devolver todas las carpetas al final del dock"
+
+#: src/v45-46-47-48-49-50/prefs.js:421
+msgid "Reset"
+msgstr "Restablecer"

@@ -1,0 +1,192 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the box-apps package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: box-apps\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-26 17:47-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: src/v45-46-47-48-49-50/DockFolder.js:218
+msgid "Open"
+msgstr ""
+
+#: src/v45-46-47-48-49-50/DockFolder.js:220
+msgid "Move to the end of the dock"
+msgstr ""
+
+#: src/v45-46-47-48-49-50/DockFolder.js:221
+msgid "Remove from dock"
+msgstr ""
+
+#: src/v45-46-47-48-49-50/DockFolder.js:223
+msgid "Box Apps Settings"
+msgstr ""
+
+#: src/v45-46-47-48-49-50/DockFolder.js:358
+msgid "No apps in this folder"
+msgstr ""
+
+#: src/v45-46-47-48-49-50/prefs.js:34
+#, javascript-format
+msgid "%d app"
+msgid_plural "%d apps"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/v45-46-47-48-49-50/prefs.js:64 src/v45-46-47-48-49-50/prefs.js:134
+msgid "Cancel"
+msgstr ""
+
+#: src/v45-46-47-48-49-50/prefs.js:66
+msgid "Done"
+msgstr ""
+
+#: src/v45-46-47-48-49-50/prefs.js:75
+msgid "Search apps"
+msgstr ""
+
+#: src/v45-46-47-48-49-50/prefs.js:136
+msgid "Save"
+msgstr ""
+
+#: src/v45-46-47-48-49-50/prefs.js:142
+msgid "Folder name"
+msgstr ""
+
+#: src/v45-46-47-48-49-50/prefs.js:174
+msgid "Box Apps"
+msgstr ""
+
+#: src/v45-46-47-48-49-50/prefs.js:190
+msgid "Show in the dock"
+msgstr ""
+
+#: src/v45-46-47-48-49-50/prefs.js:198
+msgid "Your folders"
+msgstr ""
+
+#: src/v45-46-47-48-49-50/prefs.js:199
+msgid "Folders you make here can hold any apps you choose."
+msgstr ""
+
+#: src/v45-46-47-48-49-50/prefs.js:202 src/v45-46-47-48-49-50/prefs.js:228
+msgid "New folder"
+msgstr ""
+
+#: src/v45-46-47-48-49-50/prefs.js:229 src/v45-46-47-48-49-50/prefs.js:274
+#: src/v45-46-47-48-49-50/prefs.js:276
+msgid "Choose apps"
+msgstr ""
+
+#: src/v45-46-47-48-49-50/prefs.js:250
+msgid "No folders yet"
+msgstr ""
+
+#: src/v45-46-47-48-49-50/prefs.js:251
+msgid "Use “New folder” to make one with the apps you want."
+msgstr ""
+
+#: src/v45-46-47-48-49-50/prefs.js:273
+msgid "Edit folder"
+msgstr ""
+
+#: src/v45-46-47-48-49-50/prefs.js:286
+msgid "Rename"
+msgstr ""
+
+#: src/v45-46-47-48-49-50/prefs.js:288
+msgid "Rename folder"
+msgstr ""
+
+#: src/v45-46-47-48-49-50/prefs.js:294
+msgid "Delete folder"
+msgstr ""
+
+#: src/v45-46-47-48-49-50/prefs.js:306
+msgid "Not installed"
+msgstr ""
+
+#: src/v45-46-47-48-49-50/prefs.js:311
+msgid "Move up"
+msgstr ""
+
+#: src/v45-46-47-48-49-50/prefs.js:316
+msgid "Move down"
+msgstr ""
+
+#: src/v45-46-47-48-49-50/prefs.js:321
+msgid "Remove from folder"
+msgstr ""
+
+#: src/v45-46-47-48-49-50/prefs.js:338
+msgid "App Grid folders"
+msgstr ""
+
+#: src/v45-46-47-48-49-50/prefs.js:339
+msgid ""
+"Folders from the App Grid. Make one there by dragging an app onto another."
+msgstr ""
+
+#: src/v45-46-47-48-49-50/prefs.js:382
+msgid "No App Grid folders"
+msgstr ""
+
+#: src/v45-46-47-48-49-50/prefs.js:383
+msgid "Open the App Grid and drag one app onto another to create a folder."
+msgstr ""
+
+#: src/v45-46-47-48-49-50/prefs.js:392
+msgid "Appearance"
+msgstr ""
+
+#: src/v45-46-47-48-49-50/prefs.js:393
+msgid "Drag a folder along the dock to place it between any apps."
+msgstr ""
+
+#: src/v45-46-47-48-49-50/prefs.js:398
+msgid "Separator"
+msgstr ""
+
+#: src/v45-46-47-48-49-50/prefs.js:399
+msgid "Draw a line before folders at the end of the dock"
+msgstr ""
+
+#: src/v45-46-47-48-49-50/prefs.js:405
+msgid "Popup columns"
+msgstr ""
+
+#: src/v45-46-47-48-49-50/prefs.js:406
+msgid "Apps per row when a folder is opened"
+msgstr ""
+
+#: src/v45-46-47-48-49-50/prefs.js:411
+msgid "Hide pinned apps in App Grid folders"
+msgstr ""
+
+#: src/v45-46-47-48-49-50/prefs.js:412
+msgid "Like the App Grid, leave out apps already pinned to the dock"
+msgstr ""
+
+#: src/v45-46-47-48-49-50/prefs.js:418
+msgid "Reset positions"
+msgstr ""
+
+#: src/v45-46-47-48-49-50/prefs.js:419
+msgid "Move every folder back to the end of the dock"
+msgstr ""
+
+#: src/v45-46-47-48-49-50/prefs.js:421
+msgid "Reset"
+msgstr ""

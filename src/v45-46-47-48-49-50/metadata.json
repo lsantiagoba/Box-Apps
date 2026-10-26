@@ -1,0 +1,20 @@
+{
+    "name": "Box Apps",
+    "description": "Show your App Grid folders in the Dash and Ubuntu Dock. Click a folder to open its apps in a popup.",
+    "uuid": "box-apps@lsantiagoba",
+    "shell-version": [
+        "45",
+        "46",
+        "47",
+        "48",
+        "49",
+        "50"
+    ],
+    "version": 1,
+    "gettext-domain": "box-apps",
+    "settings-schema": "org.gnome.shell.extensions.box-apps",
+    "url": "https://github.com/lsantiagoba/box-apps",
+    "donations": {
+        "paypal": "leandrosb3"
+    }
+}

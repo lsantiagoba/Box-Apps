@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+    <schema id="org.gnome.shell.extensions.box-apps"
+            path="/org/gnome/shell/extensions/box-apps/">
+        <key name="dock-folders" type="as">
+            <default>['Utilities']</default>
+            <summary>Folders shown in the dock</summary>
+            <description>Keys of the folders shown in the dock. App Grid folders use their folder ID, custom folders start with "custom:". Keys that no longer exist are skipped.</description>
+        </key>
+        <key name="custom-folders" type="s">
+            <default>'[]'</default>
+            <summary>Custom folders</summary>
+            <description>JSON list of folders made in the preferences, each with an id, a name and a list of app IDs.</description>
+        </key>
+        <key name="folder-anchors" type="a{ss}">
+            <default>{}</default>
+            <summary>Where each folder sits in the dock</summary>
+            <description>Maps a folder key to the pinned app it comes after. An empty value puts the folder first. Folders without an entry go at the end of the dock.</description>
+        </key>
+        <key name="show-separator" type="b">
+            <default>true</default>
+            <summary>Separate folders at the end</summary>
+            <description>Draw a separator line before the folders that sit at the end of the dock.</description>
+        </key>
+        <key name="popup-columns" type="i">
+            <range min="2" max="8"/>
+            <default>4</default>
+            <summary>Columns in the folder popup</summary>
+            <description>How many apps are shown per row when a folder is opened.</description>
+        </key>
+        <key name="hide-favorites" type="b">
+            <default>true</default>
+            <summary>Hide favorite apps inside App Grid folders</summary>
+            <description>Like the App Grid, leave out apps that are already pinned to the Dash. Custom folders always show every app they contain.</description>
+        </key>
+    </schema>
+</schemalist>
